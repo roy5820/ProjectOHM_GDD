@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_프로토타입 기획서/00_프로토타입 기획서.md",
+                "file": "메인 기획서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_프로토타입 기획서"
+              "title": "메인 기획서"
             }
           }
         ]
@@ -169,15 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae06bcbc34efb7c3",
+  "active": "d9b95255513c6b5e",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.md",
+    "메인 기획서.md",
+    "플라스크",
+    "유물 시스템",
+    "00_프로토타입 기획서/00_프로토타입 기획서.md",
+    "01_개요/개요_게임 개요.md",
     "00_프로토타입 기획서/플레이어 캐릭터 상세 구성/Ranger.md",
     "00_프로토타입 기획서/적 상세 구성",
     "00_프로토타입 기획서/플레이어 캐릭터 상세 구성",
-    "Untitled.md",
-    "00_프로토타입 기획서/00_프로토타입 기획서.md",
-    "메인 기획서.md",
-    "01_개요/개요_게임 개요.md",
     "01_개요/개요_컨셉.md",
     "00_프로토타입 기획서",
     "00_프로토타입 기획서",
