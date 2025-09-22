@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0ee53edefdbd37",
+        "id": "76a5d5652b5d5700",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6c5f4c2076a9e0",
+            "id": "06cf1d458394b429",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "392fb154e2ef78bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_GDD/Narrative/Story_Bible_Lite.md",
+                "file": "세계관 및 컨셉/세계관 컨셉 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story_Bible_Lite"
+              "title": "세계관 컨셉 정리"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,44 +183,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c6c5f4c2076a9e0",
+  "active": "392fb154e2ef78bb",
   "lastOpenFiles": [
-    "00_Hub/Hub.md",
-    "02_Specs/SYS_Dungeon.md",
-    "02_Specs/SYS_WarpSwitching.md",
-    "03_Content/Characters.md",
-    "03_Content/Enemies.md",
-    "05_Production_Lite/Changelog_Lite.md",
-    "01_GDD/Narrative/Story_Bible_Lite.md",
-    "01_GDD/Narrative",
+    "세계관 및 컨셉",
+    "Untitled.base",
+    "세계관 및 컨셉/세계관 컨셉 정리.md",
+    "Untitled 1.md",
+    "Untitled 1.base",
     "01_GDD/Master_GDD.md",
-    "02_Specs/SYS_ChainArts.md",
-    "02_Specs/SYS_Economy.md",
-    "02_Specs/SYS_Dodge.md",
-    "02_Specs/SYS_BasicAttack.md",
-    "02_Specs/SYS_Combat.md",
-    "04_Balancing/Tables.md",
-    "04_Balancing/Formulas.md",
-    "05_Production_Lite",
     "01_GDD/Glossary.md",
+    "00_Hub/Hub.md",
+    "03_Content/Player/Player",
+    "01_GDD/Narrative/Story_Bible_Lite.md",
+    "05_Production_Lite/Changelog_Lite.md",
+    "04_Balancing/Formulas.md",
+    "02_Specs/SYS_Economy.md",
+    "02_Specs/SYS_WarpSwitching.md",
+    "03_Content/Player",
+    "03_Content/Characters.md",
+    "02_Specs/SYS_BasicAttack.md",
+    "02_Specs/SYS_ChainArts.md",
+    "04_Balancing/Tables.md",
+    "03_Content/Enemies.md",
+    "02_Specs/SYS_Dodge.md",
+    "02_Specs/SYS_Dungeon.md",
+    "01_GDD/Narrative",
+    "02_Specs/SYS_Combat.md",
+    "05_Production_Lite",
     "07_Sound",
     "06_Art_UI",
     "05_Production",
-    "04_Balancing",
-    "02_Specs",
-    "00_Hub",
     "10_Lore/Untitled.md",
     "2025-07-22.md",
-    "40_Production",
     "01_Game_Overview/Game_Overview.md",
-    "40_Production",
     "01_Game_Overview/Vision_Goals.md",
     "00_Index/Index.md",
     "11_QA/Bug_Tracker.md",
     "10_Production/Milestones.md",
-    "09_Technical/Build_Pipeline.md",
-    "08_Audio/Music_Style.md",
-    "07_Art_Bible/Color_Palette.md",
     "Untitled.canvas",
     "무제.canvas",
     "무제 1.canvas"
