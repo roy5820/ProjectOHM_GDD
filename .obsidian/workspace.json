@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "392fb154e2ef78bb",
+            "id": "337f95560e9e1ed9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "02_/02_게임 핵심 기획 및 루프.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-file",
-              "title": "02_게임 핵심 기획 및 루프"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ],
@@ -183,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "392fb154e2ef78bb",
+  "active": "d9b95255513c6b5e",
   "lastOpenFiles": [
-    "02_/01_세계관 컨셉 정리.md",
     "02_/02_게임 핵심 기획 및 루프.md",
+    "02_/01_세계관 컨셉 정리.md",
     "04_Contents",
     "03_System",
     "01_index",
